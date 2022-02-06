@@ -9,7 +9,7 @@ body{
 nav{
 	padding: 20px;
 	display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 	align-items: center;
 }
 .news{
@@ -292,7 +292,7 @@ header{
     display: flex;
     margin-left: 100px;
     align-items: center;
-   }
+}
 .nav_text1{
     margin-right: 50px;
     text-decoration: none;
@@ -303,8 +303,8 @@ header{
     justify-content: center;
     display: flex;
     align-items: center;
-    margin-left: 125px;
-   }
+    margin-left: 225px;
+}
 .nav_text2{
     margin-left: 200px;
 
@@ -314,6 +314,7 @@ header{
     display: flex;
     align-items: center;
     margin-left: 425px;
+	margin-right: 100px;
    }
 
 .foto{
